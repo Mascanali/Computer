@@ -35,7 +35,7 @@
     background: linear-gradient(to right, #C89AFC, #7C6AFA);
 }
 .header_section {
-    background: url("img/main-screen__bgc.png") center no-repeat;
+    background: url("../img/main-screen__bgc.png") center no-repeat;
 background-color: black;
     height: 830px;
 }
